@@ -1,0 +1,32 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dr@i-glu4it.ru",
+                "Name": "Yuri Saurov"
+            }
+        ],
+        "BugReportUrl": "",
+        "Category": "System",
+        "Description": "Total CPU usage",
+        "Description[ru]": "Общая загрузка ЦП",
+        "Description[uk]": "Загальне використання ЦП",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "tablet",
+            "handset",
+            "desktop"
+        ],
+        "Icon": "animal-symbolic",
+        "Id": "org.kde.plasma.catwalk",
+        "License": "GPL-2.0+",
+        "Name": "CatWalk",
+        "Website": "",
+        "Version": "2.3"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.systemmonitor"
+    ]
+}
