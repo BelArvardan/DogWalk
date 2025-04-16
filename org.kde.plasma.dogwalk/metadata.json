@@ -11,17 +11,16 @@
         "Category": "System",
         "Description": "Total CPU usage",
         "Description[ru]": "Общая загрузка ЦП",
-        "Description[uk]": "Загальне використання ЦП",
         "EnabledByDefault": true,
         "FormFactors": [
             "tablet",
             "handset",
             "desktop"
         ],
-        "Icon": "animal-symbolic",
-        "Id": "org.kde.plasma.catwalk",
+        "Icon": "amarok-symbolic",
+        "Id": "org.kde.plasma.dogwalk",
         "License": "GPL-2.0+",
-        "Name": "CatWalk",
+        "Name": "DogWalk",
         "Website": "",
         "Version": "2.3"
     },
