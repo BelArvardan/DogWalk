@@ -8,15 +8,20 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 
 - [About](#about)
 - [Installation](#installation)
+- [Purpose](#purpose)
 - [Roadmap](#roadmap)
-- [License](#license)
 - [Acknowledgment](#acknowledgment)
+- [License](#license)
 
 ---
 
 ## About
 
-A simple plasmoid showing the total CPU usage, The project is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
+A simple plasmoid showing the total CPU usage which is a fork of [Driglu4it's](https://github.com/Driglu4it) [CatWalk](https://store.kde.org/p/2137844). [CatWalk](https://store.kde.org/p/2137844) itsself is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
+ 
+## Purpose
+
+The purpose of this project is to enable additional desktop customisation that is unique and personal. More imporantly it is a fun way to learn about git, project management, linux desktop developement and documentation. 
 
 ## Installation
 
@@ -29,8 +34,8 @@ A simple plasmoid showing the total CPU usage, The project is modeled after [Run
 
 #### 1. Manual Installation Using Terminal
 
-```bash
-git clone https://github.com/yourusername/project-name.git
+```
+git clone https://github.com/BelArvardan/DogWalk.git
 cd DogWalk
 mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 ```
@@ -65,7 +70,7 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 - [ ] Aditional animals and objects similar to RunCat.
 
-
+- [ ] Additional processes to follow beyond just the cpu.
 ## Acknowledgment
 
 ### Vladimir
