@@ -11,6 +11,7 @@
         "Category": "System",
         "Description": "Total CPU usage",
         "Description[ru]": "Общая загрузка ЦП",
+        "Description[uk]": "Загальне використання ЦП",
         "EnabledByDefault": true,
         "FormFactors": [
             "tablet",
