@@ -7,8 +7,8 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 ## Table of Contents
 
 - [About](#about)
-- [Installation](#installation)
 - [Purpose](#purpose)
+- [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Acknowledgment](#acknowledgment)
 - [License](#license)
