@@ -78,12 +78,14 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 #### 4. Other
 
-1. Can Be installed Directly through the web through pling.com.
 <img src=".images/Web-Preview.png" alt="Web-Preview" width="600"/>
 
+1. Can Be installed Directly through the web through pling.com.
+
+<img src=".images/Discover-Preview.png" alt="Discover-Preview" width="600"/>
 
 2. It can also be installed Directly using KDE Plasma's Default Software Center App "Discover".
-<img src=".images/Discover-Preview.png" alt="Discover-Preview" width="600"/>
+
 ---
 ## Roadmap
 
