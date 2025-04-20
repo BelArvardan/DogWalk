@@ -119,8 +119,10 @@ Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind 
 
 The Image Generation Feature in GPT-4o has been greatly improved. 
 ![ChatGPT IMG Gen Success](.images/Siberian-Huskies-in-Silhouette.png)
+
 Prior to this update I was unable to get images that were consistant enough to use and/or the legs were too janky.
 ![ChatGPT IMG Gen Success](.images/ChatGPT-image-fail.png)
+
 ChatGPT was also useful for the documentation part by quickly makeing templates and instructions guides.
 
 ---
