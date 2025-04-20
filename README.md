@@ -1,3 +1,5 @@
+![DogWalk Preview](.images/dogwalk-preview.gif)
+
 # DogWalk
 
 DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6.
@@ -7,17 +9,25 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 ## Table of Contents
 
 - [About](#about)
+- [Purpose](#purpose)
 - [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Acknowledgment](#acknowledgment)
+<<<<<<< HEAD
 - [Conclusion](#conclusion)
+=======
+>>>>>>> master
 - [License](#license)
 
 ---
 
 ## About
 
-A simple plasmoid showing the total CPU usage, The project is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
+A simple plasmoid showing the total CPU usage which is a fork of [Driglu4it's](https://github.com/Driglu4it) [CatWalk](https://store.kde.org/p/2137844). [CatWalk](https://store.kde.org/p/2137844) itsself is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
+ 
+## Purpose
+
+The purpose of this project is to enable additional desktop customisation that is unique and personal. More imporantly it is a fun way to learn about git, project management, linux desktop developement and documentation. 
 
 ## Installation
 
@@ -30,21 +40,35 @@ A simple plasmoid showing the total CPU usage, The project is modeled after [Run
 
 #### 1. Manual Installation Using Terminal
 
-```bash
-git clone https://github.com/yourusername/project-name.git
+```
+git clone https://github.com/BelArvardan/DogWalk.git
 cd DogWalk
 mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 ```
 
-#### 2. Manual Installation with GUI
+#### 2. Manual Installation from Desktop GUI
 
-1. 
-2. 
+1. Right-click on the desktop or panel
+    → Select “Add Widgets”
+2. In the “Add Widgets” sidebar, click the 🛠️ settings icon (top-right corner of the widget panel)
+    Choose “Install Widget from Local File...”
+3. In the file picker dialog:
+    Select "org.kde.plasma.dogwalk.tar.gz" file containing the widget
+4. Click “Open”
+    KDE will ask for confirmation; if valid, the widget will be installed.
+5. You can now drag or double-click the new widget to add it to your desktop or panel.
 
 #### 3. Automatic Installation from Desktop 
 
-1. 
-2. 
+1. Right-click on the desktop or panel
+    → Choose “Add Widgets”
+2. In the “Add Widgets” sidebar, click the 🛠️ settings icon (top-right)
+    → Select “Get New Widgets…”
+3. In the “Get New Plasma Widgets” window:
+    Search for "DogWalk"
+4. Click “Install” on the one you want
+    Once installed, drag the widget from the list onto your desktop or panel
+
 
 #### 4. Automatic Installation from Web
 
@@ -68,7 +92,7 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 - [ ] Aditional animals and objects similar to RunCat.
 
-
+- [ ] Additional processes to follow beyond just the cpu.
 ## Acknowledgment
 
 Thank you to all the people, animals and large language models that gave me the resources and motivation to make this.
