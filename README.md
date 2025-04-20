@@ -9,8 +9,9 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 - [About](#about)
 - [Installation](#installation)
 - [Roadmap](#roadmap)
-- [License](#license)
 - [Acknowledgment](#acknowledgment)
+- [Conclusion](#conclusion)
+- [License](#license)
 
 ---
 
@@ -59,6 +60,8 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 - [ ] Single unified tarball for installation.
 
+- [ ] Improve the consitency and flow of the animation.
+
 - [ ] Support Additional Localizations.
 
 - [ ] Color Picker to allow user to select custom color.
@@ -68,13 +71,29 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 ## Acknowledgment
 
+Thank you to all the people, animals and large language models that gave me the resources and motivation to make this.
+In particular those listed below.
+
 ### Vladimir
+
+Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind making this. He also solely responsible for making sure that I put down my laptop and get some fresh air and excersize every day.
 
 ### Yuri Saurov
 
+[Driglu4it](https://github.com/Driglu4it) is the creator of [CatWalk](https://store.kde.org/p/2137844) and is responsible for all of the code used in this project. All I really had to do was change a few words, icons and images.
+
 ### Takuto Nakamura
 
-### ChatGPT GPT-4o
+[Kyome𓃠](https://kyome.io/?lang=en) created [RunCat](https://kyome.io/runcat/index.html?lang=en), which was sited by [Driglu4it](https://github.com/Driglu4it) as the visual inspiration for his plasmoid CatWalk. I used and enjoyed [RunChenat](https://kyome.io/runcat/index.html?lang=en) when I was a mac user years ago.
+
+### ChatGPT
+
+
+---
+
+## Conclusion
+
+
 
 ---
 
