@@ -103,7 +103,6 @@ In particular those listed below.
 
 
 ### Vladimir
-# ![Vladimir](.images/Vladimir.jpg)
 <img src=".images/Vladimir.jpg" alt="Vladimir" width="200"/>
 
 Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind making this. He's also solely responsible for making sure that I put down my laptop and get some fresh air and excersize every day.
