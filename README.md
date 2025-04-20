@@ -1,10 +1,10 @@
-<img src=".images/Desktop-Preview.png" alt="Desktop-Preview" width="400"/>
+<img src=".images/Desktop-Preview.png" alt="Desktop-Preview" width="600"/>
 
 # DogWalk
 
-![DogWalk Preview](.images/dogwalk-preview.gif)
-
 DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6. 
+
+![DogWalk Preview](.images/dogwalk-preview.gif)
 
 [Download Now](https://www.pling.com/p/2282011)
 
