@@ -2,7 +2,7 @@
 
 # DogWalk
 
-DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6.
+DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6. ![Download Now](https://www.pling.com/p/2282011)
 
 ![License: GPL v2.0+](https://img.shields.io/badge/License-GPL%20v2.0%2B-blue.svg)
 
