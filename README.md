@@ -1,8 +1,12 @@
 ![DogWalk Preview](.images/dogwalk-preview.gif)
+![Desktop Preview](.images/Desktop-Preview.png)
+
 
 # DogWalk
 
-DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6.
+DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6. 
+
+[Download Now](https://www.pling.com/p/2282011)
 
 ![License: GPL v2.0+](https://img.shields.io/badge/License-GPL%20v2.0%2B-blue.svg)
 
@@ -101,10 +105,10 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 Thank you to all the people, animals and large language models that gave me the resources and motivation to make this.
 In particular those listed below.
 
+<img src=".images/Vladimir.jpg" alt="Vladimir" width="200"/>
 
 ### Vladimir
 
-![Vladimir](.images/Vladimir.jpg)
 Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind making this. He's also solely responsible for making sure that I put down my laptop and get some fresh air and excersize every day.
 
 ### Yuri Saurov
@@ -119,8 +123,10 @@ Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind 
 
 The Image Generation Feature in GPT-4o has been greatly improved. 
 ![ChatGPT IMG Gen Success](.images/Siberian-Huskies-in-Silhouette.png)
+
 Prior to this update I was unable to get images that were consistant enough to use and/or the legs were too janky.
 ![ChatGPT IMG Gen Success](.images/ChatGPT-image-fail.png)
+
 ChatGPT was also useful for the documentation part by quickly makeing templates and instructions guides.
 
 ---
