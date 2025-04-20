@@ -13,10 +13,7 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 - [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Acknowledgment](#acknowledgment)
-<<<<<<< HEAD
 - [Conclusion](#conclusion)
-=======
->>>>>>> master
 - [License](#license)
 
 ---
@@ -24,6 +21,8 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 ## About
 
 A simple plasmoid showing the total CPU usage which is a fork of [Driglu4it's](https://github.com/Driglu4it) [CatWalk](https://store.kde.org/p/2137844). [CatWalk](https://store.kde.org/p/2137844) itsself is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
+
+![DogWalk and CatWalk](.images/dogwalk-and-catwalk.gif)
  
 ## Purpose
 
