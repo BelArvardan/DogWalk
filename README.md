@@ -47,8 +47,15 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 
 #### 3. Automatic Installation from Desktop 
 
-1. 
-2. 
+1. Right-click on the desktop or panel
+    → Choose “Add Widgets”
+2. In the “Add Widgets” sidebar, click the 🛠️ settings icon (top-right)
+    → Select “Get New Widgets…”
+3. In the “Get New Plasma Widgets” window:
+    Search for "DogWalk"
+4. Click “Install” on the one you want
+    Once installed, drag the widget from the list onto your desktop or panel
+
 
 #### 4. Automatic Installation from Web
 
