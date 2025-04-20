@@ -18,11 +18,11 @@ DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](
 
 ---
 
+![DogWalk and CatWalk](.images/dogwalk-and-catwalk.gif)
+
 ## About
 
 A simple plasmoid showing the total CPU usage which is a fork of [Driglu4it's](https://github.com/Driglu4it) [CatWalk](https://store.kde.org/p/2137844). [CatWalk](https://store.kde.org/p/2137844) itsself is modeled after [RunCat](https://kyome.io/runcat/index.html?lang=en), a macOS taskbar app by [Kyome𓃠](https://kyome.io/?lang=en).
-
-![DogWalk and CatWalk](.images/dogwalk-and-catwalk.gif)
  
 ## Purpose
 
@@ -38,6 +38,10 @@ The purpose of this project is to enable additional desktop customisation that i
 ### Installation Methods
 
 #### 1. Manual Installation Using Terminal
+
+1. Clone the repo.
+2. Enter the Repo
+3. Move folder to ".local" Directory
 
 ```
 git clone https://github.com/BelArvardan/DogWalk.git
@@ -68,11 +72,10 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 4. Click “Install” on the one you want
     Once installed, drag the widget from the list onto your desktop or panel
 
+#### 4. Other
 
-#### 4. Automatic Installation from Web
-
-1. 
-2. 
+1. Can Be installed Directly through the web through pling.com.
+2. It can also be installed Directly using KDE Plasma's Default Software Center App "Discover".
 
 ---
 ## Roadmap
@@ -111,7 +114,14 @@ Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind 
 
 ### ChatGPT
 
+The Image Generation Feature in GPT-4o has been greatly improved. 
+![ChatGPT IMG Gen Success](.images/Siberian-Huskies-in-Silhouette.png)
 
+
+Prior to this update I was unable to get images that were consistant enough to use and/or the legs were too janky.
+![ChatGPT IMG Gen Success](.images/ChatGPT-image-fail.png)
+
+ChatGPT was also useful for the documentation part by quickly makeing templates and instructions guides.
 ---
 
 ## Conclusion
