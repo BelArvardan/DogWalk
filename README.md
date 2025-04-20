@@ -1,3 +1,5 @@
+![DogWalk Preview](.images/dogwalk-preview.gif)
+
 # DogWalk
 
 DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6.
@@ -40,10 +42,17 @@ cd DogWalk
 mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 ```
 
-#### 2. Manual Installation with GUI
+#### 2. Manual Installation from Desktop GUI
 
-1. 
-2. 
+1. Right-click on the desktop or panel
+    → Select “Add Widgets”
+2. In the “Add Widgets” sidebar, click the 🛠️ settings icon (top-right corner of the widget panel)
+    Choose “Install Widget from Local File...”
+3. In the file picker dialog:
+    Select "org.kde.plasma.dogwalk.tar.gz" file containing the widget
+4. Click “Open”
+    KDE will ask for confirmation; if valid, the widget will be installed.
+5. You can now drag or double-click the new widget to add it to your desktop or panel.
 
 #### 3. Automatic Installation from Desktop 
 
