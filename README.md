@@ -1,10 +1,10 @@
-![DogWalk Preview](.images/dogwalk-preview.gif)
-![Desktop Preview](.images/Desktop-Preview.png)
-
+<img src=".images/Desktop-Preview.png" alt="Desktop-Preview" width="600"/>
 
 # DogWalk
 
 DogWalk is a fork of [CatWalk](https://store.kde.org/p/2137844), by [Driglu4it](https://github.com/Driglu4it). for KDE Plasma 6. 
+
+![DogWalk Preview](.images/dogwalk-preview.gif)
 
 [Download Now](https://www.pling.com/p/2282011)
 
@@ -79,12 +79,15 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 #### 4. Other
 
 1. Can Be installed Directly through the web through pling.com.
-2. It can also be installed Directly using KDE Plasma's Default Software Center App "Discover".
+<img src=".images/Web-Preview.png" alt="Web-Preview" width="600"/>
 
+
+2. It can also be installed Directly using KDE Plasma's Default Software Center App "Discover".
+<img src=".images/Discover-Preview.png" alt="Discover-Preview" width="600"/>
 ---
 ## Roadmap
 
-- [ ] Make package available on the [KDE Store](https://store.kde.org/browse?cat=705&ord=latest) to allow direct installation from the desktop.
+- [x] Make package available on the [KDE Store](https://store.kde.org/browse?cat=705&ord=latest) to allow direct installation from the desktop.
 
 - [ ] Fix SVGs to automatically recognize and adjust to system themes.
 
