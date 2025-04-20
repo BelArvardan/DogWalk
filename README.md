@@ -95,14 +95,17 @@ mv org.kde.plasma.dogwalk $HOME/.local/share/plasma/plasmoids/
 - [ ] Aditional animals and objects similar to RunCat.
 
 - [ ] Additional processes to follow beyond just the cpu.
+
 ## Acknowledgment
 
 Thank you to all the people, animals and large language models that gave me the resources and motivation to make this.
 In particular those listed below.
 
+
 ### Vladimir
 
-Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind making this. He also solely responsible for making sure that I put down my laptop and get some fresh air and excersize every day.
+![Vladimir](.images/Vladimir.jpg)
+Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind making this. He's also solely responsible for making sure that I put down my laptop and get some fresh air and excersize every day.
 
 ### Yuri Saurov
 
@@ -116,17 +119,15 @@ Vladimir is my adopted German Shepherd/Husky Mix who was the inspiration behind 
 
 The Image Generation Feature in GPT-4o has been greatly improved. 
 ![ChatGPT IMG Gen Success](.images/Siberian-Huskies-in-Silhouette.png)
-
-
 Prior to this update I was unable to get images that were consistant enough to use and/or the legs were too janky.
 ![ChatGPT IMG Gen Success](.images/ChatGPT-image-fail.png)
-
 ChatGPT was also useful for the documentation part by quickly makeing templates and instructions guides.
+
 ---
 
 ## Conclusion
 
-
+Although This was an incredibly simple project. The documentation and testing still took up a decent ammount of time. I have greater appreciation then ever toward everyone contributing to open source projects.
 
 ---
 
