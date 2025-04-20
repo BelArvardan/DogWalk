@@ -1,4 +1,6 @@
 ![DogWalk Preview](.images/dogwalk-preview.gif)
+![Desktop Preview](.images/Desktop-Preview.png)
+
 
 # DogWalk
 
