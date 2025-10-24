@@ -1,7 +1,7 @@
 import QtQuick
 import org.kde.plasma.plasmoid
 import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.private.timer as Exec
+import plasma.applet.org.kde.plasma.timer as Exec
 
 PlasmoidItem {
     id: root
