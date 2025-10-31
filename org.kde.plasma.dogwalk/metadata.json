@@ -23,7 +23,7 @@
         "License": "GPL-2.0+",
         "Name": "DogWalk",
         "Website": "",
-        "Version": "2.3"
+        "Version": "1.1"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-Provides": [
